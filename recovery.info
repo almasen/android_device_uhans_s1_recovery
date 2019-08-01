@@ -1,0 +1,22 @@
+
+Android Boot Image Info:
+
+* file name = recovery.img 
+
+* image size = 10470700 bytes (9.99 MB)
+  page size  = 2048 bytes
+
+* Boot Name = "1473078407"
+
+* kernel size       = 7047711 bytes (6.72 MB)
+  ramdisk size      = 3417919 bytes (3.26 MB)
+
+* load addresses:
+  kernel:       0x40080000
+  ramdisk:      0x44000000
+  tags:         0x4e000000
+
+* cmdline = bootopt=64S3,32N2,64N2
+
+* id = 0xd27ee972 0x695ad635 0x260ba24f 0xfd20441b 0xd9fc471a 0x00000000 0x00000000 0x00000000 
+
